@@ -86,5 +86,9 @@ demo_videos/
 
 ## Contributors
 
-Jakki Prasanna Kumar
-PCB Designer & Embedded System Contributor
+<h2 align="center">👨‍💻 Contributors</h2>
+
+<p align="center">
+  <b>Jakki Prasanna Kumar</b><br>
+  PCB Designer & Embedded System Contributor
+</p>
